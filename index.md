@@ -8,19 +8,19 @@
 <b>background:</b> I have worked with databases like SQL and MongoDB as well as a few servers. I excel at menial tasks. If you give me a task list I will try to finish it as fast as possible.
 
 ### Tony Long
-<b>hopes & dreams:</b> I want to practice building web pages and web applications, such as learning more about api’s
+<b>hopes & dreams:</b> I want to practice building web pages and web applications, such as learning more about api’s.
 
-<b>backgound:</b> Come from a pretty extensive Html/Css/Javascript background so I can bring my ‘meh’ programming skills to the project
+<b>background:</b> Come from a pretty extensive Html/Css/Javascript background so I can bring my understanding and contribute anyway I can. Also I've worked on a few coding projects with others before so if there is one thing I know, its teamwork.
 
 ### Ujjwal Gautam
 <b>hopes & dreams:</b> I'm looking forward to building a reactive web page from scratch. I want to level up my understanding of the client and server-side interactivity.
 
-<b>backgound:</b> Intermediate level HTML/CSS/Javascript/React/Meteor background. I can bring a little bit of everything to the project.
+<b>background:</b> Intermediate level HTML/CSS/Javascript/React/Meteor background. I can bring a little bit of everything to the project.
 
 ### Mark Young
 <b>hopes & dreams:</b> I’d like to learn about creating software as a team, and how to make a structure for completing a project.
 
-<b>backgound:</b> I will work until the work is done. So I bring my dedication to the project.
+<b>background:</b> I will work until the work is done. So I bring my dedication to the project.
 
 # Coordination Strategy
 <b>Meeting times:</b> Sunday 12 pm and Thursday 10:30 pm <br>
@@ -42,5 +42,4 @@
 <b> Users reviews are anonymous to protect users privacy. <br>
 
 # Mockup
-<img src="https://github.com/Rate-My-Classes-Manoa/Presentation/blob/main/doc/Sitemapv2.jpg"> <br>
 # M1 Project Board
