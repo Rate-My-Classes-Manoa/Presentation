@@ -21,4 +21,6 @@ I’d like to learn about creating software as a team, and how to make a structu
 # Big Picture
 <img src="https://www.ratemyprofessors.com/static/media/instructional-slide-pencil-lady.492f2289.svg"> <br>
 # Mockup
+
+<img src="https://github.com/Rate-My-Classes-Manoa/Presentation/blob/main/doc/sitemap.jpg"> 
 # M1 Project Board
