@@ -43,3 +43,4 @@ Solution: Our solution is to create a personalized review page made by fellow st
 
 # Mockup
 # M1 Project Board
+<img src="doc/m1.png">
