@@ -1,21 +1,29 @@
 
 # Team Members
 
-<b>Seth Tanoue</b> - This will be my first time doing a coding project with multiple people. So figuring out the logistics of this project will be enlightening. Also, this project will be the first practical application of what we learned so far and I am curious on how much I have retained.
-
-<b>Tony Long</b> - I want to practice building web pages and web applications, such as learning more about api’s
-
-<b>Ujjwal Gautam</b> - I'm looking forward to building a reactive web page from scratch. I want to level up my understanding of the client and server-side interactivity.
-
-<b>Mark Young</b> - I’d like to learn about creating software as a team, and how to make a structure for completing a project.
+Seth Tanoue <br>
+Tony Long <br>
+Ujjwal Gautam <br>
+Mark Young <br>
 
 # Coordination Strategy
 <b>Meeting times:</b> Sunday 12 pm and Thursday 10:30 pm <br>
 <b>Place:</b> discord
 
 # Big Picture
+Problem: There is no university dedicated review of classes for students. And during covid, users don't have any good ways to look at what events are coming up. <br>
+Solution: Our solution is to create a personalized review page made by fellow students with a seperate page that lets users post upcoming events.  <br>
+Outline:
+<ul>
+  <li> Users are able to post events to the community event page without logging in. </li>
+  <li> Visitors are able to view reviews without logging in. </li>
+  <li> To post/edit reviews about classes, users will need to login. </li>
+</ul>
 <img src="https://www.ratemyprofessors.com/static/media/instructional-slide-pencil-lady.492f2289.svg"> <br>
+<b> Users are able to post and edit reviews. <br>
+<br>
+<img src="https://www.ratemyprofessors.com/static/media/instructional-slide-mystery-lady.bf022e31.svg"> <br>
+<b> Users reviews are anonymous to protect users privacy. <br>
+
 # Mockup
-
-
 # M1 Project Board
