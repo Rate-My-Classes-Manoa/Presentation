@@ -1,5 +1,6 @@
 
 # Team Members
+<img src="https://media.istockphoto.com/vectors/programmer-coding-on-laptop-computer-on-work-desk-vector-illustration-vector-id1045009160?s=612x612" width="80px" height="80px">
 
 ### Seth Tanoue
 
