@@ -27,7 +27,7 @@
 <b>Place:</b> discord
 
 # Big Picture
-<b><u>Problem:</u></b><br> There is no university dedicated review of classes for students. And during covid, users don't have any good ways to look at what events are coming up. <br>
+<b><u>Problem:</u></b><br> There is no dedicated reviews of classes for students attending UH Manoa. And during covid, users don't have any good ways to look at what events are coming up. <br>
 <b><u>Solution:</u></b><br> Our solution is to create a personalized review page made by fellow students with a seperate page that lets users post upcoming events.  <br>
 <br>
 <ul>
