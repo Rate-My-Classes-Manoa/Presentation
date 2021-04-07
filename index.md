@@ -1,7 +1,7 @@
 
 # Team Members
 
-Seth Tanoue
-Tony Long
-Ujjwal Gautam
-Mark Young
+Seth Tanoue <br>
+Tony Long <br>
+Ujjwal Gautam <br>
+Mark Young <br>
