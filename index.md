@@ -16,4 +16,6 @@
 # Big Picture
 <img src="https://www.ratemyprofessors.com/static/media/instructional-slide-pencil-lady.492f2289.svg"> <br>
 # Mockup
+
+<img src="sitemap.jpg"> 
 # M1 Project Board
