@@ -45,4 +45,4 @@
 # Mockup
 <img src="doc/sitemapv3.jpg"> <br>
 # M1 Project Board
-<img src="doc/m1.png">
+[<img src="doc/m1.png">](https://github.com/Rate-My-Classes-Manoa/rate-my-classes/projects/1)
