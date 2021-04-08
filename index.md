@@ -43,6 +43,6 @@
 <b> Users reviews are anonymous to protect users privacy. <br>
 
 # Mockup
-<img src="doc/Sitemapv2.jpg"> <br>
+<img src="doc/sitemapv3.jpg"> <br>
 # M1 Project Board
 <img src="doc/m1.png">
